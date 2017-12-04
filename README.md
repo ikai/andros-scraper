@@ -13,4 +13,4 @@ Then run:
 python main.py
 ```
 
-Don't `@` me, thanks.
+`@` me, thanks.
